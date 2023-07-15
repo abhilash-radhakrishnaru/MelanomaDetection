@@ -36,7 +36,10 @@ The data set contains the following diseases:
 - Vascular lesion
 
 ## Conclusions
-
+- With increase in epochs, the accuracy of both validation & training increases.
+- With increase in epochs, the training & validation loss decreases
+- The difference between the training & validation accuracy has decreased a lot compared to other two models.
+- More images in the dataset, rebalancing & more epochs helps to improve the performance of the model
 
 
 ## Technologies Used
