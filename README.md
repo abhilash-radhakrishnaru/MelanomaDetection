@@ -38,7 +38,7 @@ The data set contains the following diseases:
 ## Conclusions
 - With increase in epochs, the accuracy of both validation & training increases.
 - With increase in epochs, the training & validation loss decreases
-- The difference between the training & validation accuracy has decreased a lot compared to other two models.
+- The difference between the training & validation accuracy has decreased a lot(but still there is scope for improvment, not able to run multiple iterations due to compute limitations).
 - More images in the dataset, rebalancing & more epochs helps to improve the performance of the model
 
 
