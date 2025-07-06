@@ -48,7 +48,3 @@ The data set contains the following diseases:
 - pandas library
 - matplotlib library
 - numpy library
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by upGrad's CNN assignment
